@@ -1,0 +1,19 @@
+﻿  Timber2.cpp
+C:\Users\user\source\repos\Timber2\Timber2.cpp(171,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\source\repos\Timber2\Timber2.cpp(176,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\source\repos\Timber2\Timber2.cpp(181,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\source\repos\Timber2\Timber2.cpp(447,39): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\source\repos\Timber2\Timber2.cpp(625,39): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\source\repos\Timber2\Timber2.cpp(752,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\source\repos\Timber2\Timber2.cpp(763,55): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\user\source\repos\Timber2\Timber2.cpp(772,52): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\user\source\repos\Timber2\Timber2.cpp(783,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Timber2.vcxproj -> C:\Users\user\source\repos\Timber2\Debug\Timber2.exe
